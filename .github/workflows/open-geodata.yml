@@ -2,7 +2,7 @@ name: open-geodata
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build_geo:
