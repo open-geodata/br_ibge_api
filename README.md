@@ -1,5 +1,7 @@
 # IBGE | Serviço Dados
 
+[GitHub](https://github.com/open-geodata/br_ibge_api)
+
 O IBGE disponibiliza acesso aos dados por meio da [API Serviço Dados](https://servicodados.ibge.gov.br/api/docs).
 
 Essa [API do IBGE](https://servicodados.ibge.gov.br) possibilita baixar os dados diretamente para o _script_. Para baixar as malhas, ou seja, informações geoespaciais, é possivel baixar os dados em três diferentes formatos:
